@@ -7,7 +7,8 @@ Code, frozen result artefacts and figure pipeline for:
 > crossing event itself.**
 > Manuscript prepared for *Nature Climate Change* (initial submission, anonymised).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
+[![Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/fanqimcse/nocturnal-moist-heat-burden/releases/tag/v1.0.0)
+Archival request accepted by Software Heritage (SWHID to be minted after the first visit).
 
 ## What this repository contains
 
