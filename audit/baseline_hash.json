@@ -1,0 +1,270 @@
+{
+ "attribution.json": {
+  "sha": "f724068aedd30924",
+  "len": 2237
+ },
+ "cmip6_da.json": {
+  "sha": "65b22b46d661ee24",
+  "len": 1870
+ },
+ "cmip6_internal_variability.json": {
+  "sha": "790e9fb6636ab1c6",
+  "len": 828
+ },
+ "cmip6_nwh_series.json": {
+  "sha": "16c4e349eec075a3",
+  "len": 4683598
+ },
+ "daynight_burden.json": {
+  "sha": "dce014ae8eb5ad7f",
+  "len": 4834
+ },
+ "decisive_spec.json": {
+  "sha": "a5cb35c711536602",
+  "len": 3689
+ },
+ "design_sensitivity.json": {
+  "sha": "900771fca47cabe0",
+  "len": 1146
+ },
+ "era5_validation.json": {
+  "sha": "3b99743f68299830",
+  "len": 99
+ },
+ "exposure_projection.json": {
+  "sha": "fd0db3a6d2e18929",
+  "len": 3515
+ },
+ "extrapolation_bridge.json": {
+  "sha": "1fb923c191eb3966",
+  "len": 3109
+ },
+ "first_crossing.json": {
+  "sha": "816cb22f4951c277",
+  "len": 1181
+ },
+ "first_crossing_europe.json": {
+  "sha": "3519dd42944d7b11",
+  "len": 1349
+ },
+ "graded_scale.json": {
+  "sha": "a2e912ee8fdfa037",
+  "len": 1345
+ },
+ "gradient_robustness.json": {
+  "sha": "36cc27a53503fc6b",
+  "len": 2800
+ },
+ "headline_metric.json": {
+  "sha": "188fc6a53250c895",
+  "len": 2681
+ },
+ "health_climate_gradient.json": {
+  "sha": "c627124c776525a9",
+  "len": 2821
+ },
+ "health_er.json": {
+  "sha": "f0a0e335b284d571",
+  "len": 9722
+ },
+ "health_heattail.json": {
+  "sha": "d98519b22fd7e83f",
+  "len": 10596
+ },
+ "health_operational_compare.json": {
+  "sha": "3bcf20079266c7ef",
+  "len": 6273
+ },
+ "health_stratified.json": {
+  "sha": "eed595a3bf3e91da",
+  "len": 1799
+ },
+ "humidity_attribution.json": {
+  "sha": "023bc7e5544d953f",
+  "len": 2601
+ },
+ "humidity_decomp_v2.json": {
+  "sha": "e17ea2d36ec32183",
+  "len": 5616
+ },
+ "independent_validation.json": {
+  "sha": "3d67c22043dd24ab",
+  "len": 9792
+ },
+ "night_def_sensitivity.json": {
+  "sha": "3a13631cfae1e9ed",
+  "len": 1282
+ },
+ "nwf_headline.json": {
+  "sha": "b5354b92963ceae9",
+  "len": 1508
+ },
+ "nwh_detection_attribution.json": {
+  "sha": "009ef31d98cd14d5",
+  "len": 1184
+ },
+ "nwh_projection.json": {
+  "sha": "8a94ef88c107a689",
+  "len": 3081080
+ },
+ "nwh_projection_summary.json": {
+  "sha": "5823d955b2d3eaaa",
+  "len": 2719
+ },
+ "nwh_trend_robustness.json": {
+  "sha": "80e9b888ac6b3e8b",
+  "len": 3449
+ },
+ "ods.json": {
+  "sha": "61a05f015e419a6f",
+  "len": 45
+ },
+ "own_rr_burden.json": {
+  "sha": "f9be81ba74eea2d5",
+  "len": 1421
+ },
+ "panel_afrsa.json": {
+  "sha": "57a6c52bbcb2a3a5",
+  "len": 24133
+ },
+ "panel_all.json": {
+  "sha": "2b0224faec16dbed",
+  "len": 65186
+ },
+ "panel_core.json": {
+  "sha": "1b47c97da08642b2",
+  "len": 30001
+ },
+ "panel_supp.json": {
+  "sha": "3626a071a2b8b610",
+  "len": 15120
+ },
+ "pw.json": {
+  "sha": "194ac5136201a8b1",
+  "len": 269
+ },
+ "reanalysis_crosscheck.json": {
+  "sha": "8d09fed95696e30d",
+  "len": 1596
+ },
+ "reanalysis_validation.json": {
+  "sha": "d818d8ec0f0fdc9c",
+  "len": 160
+ },
+ "reference_implementation.json": {
+  "sha": "c9cbc8645fca9091",
+  "len": 5738
+ },
+ "representativeness.json": {
+  "sha": "946d8ce2236955c7",
+  "len": 4020
+ },
+ "results.json": {
+  "sha": "d157ce44f159d8f3",
+  "len": 67708
+ },
+ "robust.json": {
+  "sha": "00f867a732c68ec0",
+  "len": 9885
+ },
+ "sg.json": {
+  "sha": "c9e3e675739c1550",
+  "len": 66732
+ },
+ "sg_deaths.json": {
+  "sha": "27ec94ee41d3cecd",
+  "len": 31157
+ },
+ "sg_res.json": {
+  "sha": "ace6bf4ee42696e5",
+  "len": 328
+ },
+ "sgq.json": {
+  "sha": "9e81e98586b256f0",
+  "len": 2667
+ },
+ "sgr2.json": {
+  "sha": "c3b2f4b5838cf2fb",
+  "len": 30656
+ },
+ "sgr3.json": {
+  "sha": "18a4afee5c052ccd",
+  "len": 30608
+ },
+ "sgr4.json": {
+  "sha": "4d6656941c7d2b5b",
+  "len": 934
+ },
+ "sgr5.json": {
+  "sha": "4d6656941c7d2b5b",
+  "len": 934
+ },
+ "sim_test.json": {
+  "sha": "b1f753235d634feb",
+  "len": 4890
+ },
+ "south_north_stratified.json": {
+  "sha": "447d346d764f3410",
+  "len": 16426
+ },
+ "step_response_checks.json": {
+  "sha": "a76e6cb890b37948",
+  "len": 2511
+ },
+ "sw__openapi.json": {
+  "sha": "61a05f015e419a6f",
+  "len": 45
+ },
+ "sw__static_swagger.json": {
+  "sha": "0ddc15ed42cfff37",
+  "len": 139103
+ },
+ "sw__v1_openapi.json": {
+  "sha": "61a05f015e419a6f",
+  "len": 45
+ },
+ "sw__v1_static_swagger.json": {
+  "sha": "61a05f015e419a6f",
+  "len": 45
+ },
+ "sw__v1_swagger.json": {
+  "sha": "61a05f015e419a6f",
+  "len": 45
+ },
+ "t.json": {
+  "sha": "58ed2d1edc3fbf03",
+  "len": 11
+ },
+ "toe_results.json": {
+  "sha": "c656ccca0357e8c0",
+  "len": 744
+ },
+ "tropical_power.json": {
+  "sha": "d90e9df3b91031ef",
+  "len": 1029
+ },
+ "tropical_singapore.json": {
+  "sha": "868222c71e760c40",
+  "len": 4119
+ },
+ "tropical_threshold.json": {
+  "sha": "7681015d73023520",
+  "len": 2037
+ },
+ "twin_cities.json": {
+  "sha": "2e3699ea22dd72f5",
+  "len": 33102
+ },
+ "warning_eval.json": {
+  "sha": "67f83f2824bbd6cb",
+  "len": 1770
+ },
+ "warning_skill.json": {
+  "sha": "84bd51d07490365c",
+  "len": 1667
+ },
+ "who_mortality.json": {
+  "sha": "28561b3780f68f85",
+  "len": 1325
+ }
+}

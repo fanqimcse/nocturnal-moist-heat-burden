@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.tmp
+page-*.png
+pg-*.png
+fg-*.png

@@ -1,0 +1,66 @@
+{
+  "thr": 21.9,
+  "minh": 3000,
+  "n_stationyear": 4032,
+  "n_station": 176,
+  "exposure": {
+    "frac_first": 0.7948717948717948,
+    "frac_last": 0.7514450867052023,
+    "trend_frac_pp_decade": -0.003647447445968737,
+    "p_frac": 0.5177463547859711,
+    "trend_pop_pp_decade": 0.0025036744073948227,
+    "p_pop": 0.7381780934428054,
+    "exp_pop_M_last": 632.1721944396984
+  },
+  "first_crossing": {
+    "cohort": 3,
+    "events": 3,
+    "HR_per_decade": 0.9829408913582632,
+    "HR_lo": 0.3601404414085863,
+    "HR_hi": 2.6827667343474912,
+    "z": -0.0335881342592792,
+    "hazard_early": 0.08,
+    "hazard_late": 0.07142857142857142
+  },
+  "bands": [
+    {
+      "band": "temperate",
+      "n": 1,
+      "HR": null,
+      "lo": null,
+      "hi": null,
+      "z": null,
+      "base_hazard": null
+    },
+    {
+      "band": "subtropics",
+      "n": 0,
+      "HR": null,
+      "lo": null,
+      "hi": null,
+      "z": null,
+      "base_hazard": null
+    },
+    {
+      "band": "tropics",
+      "n": 2,
+      "HR": null,
+      "lo": null,
+      "hi": null,
+      "z": null,
+      "base_hazard": null
+    }
+  ],
+  "amplitude_vs_extent": {
+    "intens_slope": 0.10096328406826942,
+    "intens_rel": 0.39178987927364123,
+    "frac_rel": -0.463545337953135,
+    "pop_rel": 0.3474935192619126,
+    "ratio_station": 1.1831478107921645,
+    "ratio_pop": 0.886938478110124
+  },
+  "new_exposure": {
+    "mean_M_per_yr": 15.34374903937741,
+    "trend_M_per_decade": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+ "models": [
+  "CNRM-CM6-1",
+  "CanESM5",
+  "HadGEM3-GC31-LL",
+  "IPSL-CM6A-LR"
+ ],
+ "全年_historical": {
+  "models": [
+   "CNRM-CM6-1",
+   "CanESM5",
+   "HadGEM3-GC31-LL",
+   "IPSL-CM6A-LR"
+  ],
+  "n_stations": 174,
+  "median_trend": 0.28099217791887643,
+  "mean_trend": 0.2939072999949273
+ },
+ "全年_hist-nat": {
+  "models": [
+   "CNRM-CM6-1",
+   "CanESM5",
+   "IPSL-CM6A-LR"
+  ],
+  "n_stations": 174,
+  "median_trend": -0.03512767717826252,
+  "mean_trend": -0.042435541202563314
+ },
+ "全年_obs_tw_stull": {
+  "median_trend": 0.17679166666666707,
+  "n": 72,
+  "mean_trend": 0.1817206589640476
+ },
+ "全年_obs_tw_night": {
+  "median_trend": 0.1447817460317447,
+  "n": 72,
+  "mean_trend": 0.13306431501216973
+ },
+ "全年_obs_tasmin": {
+  "median_trend": 0.1688414719954971,
+  "n": 72,
+  "mean_trend": 0.17114669440067093
+ },
+ "全年_obs_t_mean": {
+  "median_trend": 0.14111011904761922,
+  "n": 72,
+  "mean_trend": 0.12491683391911601
+ },
+ "全年_fingerprint": {
+  "n": 72,
+  "b_ALL": 0.5117059474459422,
+  "b_ALL_se": 0.12348566997202425,
+  "b_NAT": -0.9637906727023413,
+  "b_NAT_se": 0.6508548757361065
+ },
+ "暖季_historical": {
+  "models": [
+   "CNRM-CM6-1",
+   "CanESM5",
+   "HadGEM3-GC31-LL",
+   "IPSL-CM6A-LR"
+  ],
+  "n_stations": 174,
+  "median_trend": 0.31732794278143733,
+  "mean_trend": 0.3288318525906671
+ },
+ "暖季_hist-nat": {
+  "models": [
+   "CNRM-CM6-1",
+   "CanESM5",
+   "IPSL-CM6A-LR"
+  ],
+  "n_stations": 174,
+  "median_trend": -0.03259256310371454,
+  "mean_trend": -0.035845315412732226
+ },
+ "暖季_obs_tw_stull": {
+  "median_trend": 0.14516207264957243,
+  "n": 72,
+  "mean_trend": 0.1568105832510063
+ },
+ "暖季_obs_tw_night": {
+  "median_trend": 0.06768115942028621,
+  "n": 72,
+  "mean_trend": 0.0728906089022562
+ },
+ "暖季_obs_tasmin": {
+  "median_trend": 0.12207244862417234,
+  "n": 72,
+  "mean_trend": 0.16082722027223123
+ },
+ "暖季_obs_t_mean": {
+  "median_trend": 0.06723630312340123,
+  "n": 72,
+  "mean_trend": 0.06014506181018827
+ },
+ "暖季_fingerprint": {
+  "n": 72,
+  "b_ALL": 0.3366946932028942,
+  "b_ALL_se": 0.07936398958370142,
+  "b_NAT": -1.112260850632848,
+  "b_NAT_se": 0.6856572392234269
+ }
+}

@@ -1,0 +1,56 @@
+{
+  "tw_night_mean": {
+    "n_avail": 67,
+    "emerged": 19,
+    "toe_median": 2016,
+    "q1": 2013,
+    "q3": 2018,
+    "earliest": 1999,
+    "latest": 2021
+  },
+  "nrfr_elderly": {
+    "n_avail": 67,
+    "emerged": 5,
+    "toe_median": 2017,
+    "q1": 2016,
+    "q3": 2017,
+    "earliest": 2012,
+    "latest": 2018
+  },
+  "nhrs_elderly": {
+    "n_avail": 67,
+    "emerged": 3,
+    "toe_median": 2011,
+    "q1": 1992,
+    "q3": 2020,
+    "earliest": 1992,
+    "latest": 2020
+  },
+  "dtr_tw": {
+    "n_avail": 67,
+    "emerged": 21,
+    "toe_median": 2006,
+    "q1": 2002,
+    "q3": 2013,
+    "earliest": 1996,
+    "latest": 2022
+  },
+  "usable_frac": {
+    "n_avail": 67,
+    "emerged": 7,
+    "toe_median": 2009,
+    "q1": 2007,
+    "q3": 2022,
+    "earliest": 2007,
+    "latest": 2022
+  },
+  "fn_tn25": {
+    "n_avail": 67,
+    "emerged": 16,
+    "toe_median": 2015.5,
+    "q1": 2009,
+    "q3": 2021,
+    "earliest": 2000,
+    "latest": 2022
+  }
+}

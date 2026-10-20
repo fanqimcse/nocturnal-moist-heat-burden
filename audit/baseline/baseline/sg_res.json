@@ -1,0 +1,1 @@
+{"Data":{"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"SearchOption":["The SearchOption field is required."]},"traceId":"00-ba3f7cc5e87569e1399fc81a3bdc049b-0658cbbde0fd70ec-00"},"DataCount":1,"StatusCode":400,"Message":""}

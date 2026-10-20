@@ -1,0 +1,48 @@
+{
+ "dTw": 0.7526226247566478,
+ "pop": 900509760.8561848,
+ "CDR": 0.0076,
+ "baseline_deaths": 6843874.182507005,
+ "exposure": {
+  "annual_median_slope": 0.017483887733887697,
+  "annual_pop_weighted_slope": 0.016013247335247824,
+  "n_stations": 67,
+  "pop_total": 900509760.8561848,
+  "n_stations_all": 176,
+  "warm_season_median_slope": 0.006768115942028622,
+  "warm_season_pop_weighted_slope": 0.01110957258991817,
+  "n_stations_warm": 67
+ },
+ "burden_NO_COVID__G_twmean_only|tw_night_mean_mean": {
+  "beta": 0.010491414758222914,
+  "lo": 0.009708814300202283,
+  "hi": 0.011274015216243546,
+  "attributable": 54253.665101893515,
+  "attributable_lo": 50191.84473927438,
+  "attributable_hi": 58317.87859283362
+ },
+ "burden_ALL__G_twmean_only|tw_night_mean_mean": {
+  "beta": 0.010332080241774379,
+  "lo": 0.009533667849358335,
+  "hi": 0.011130492634190423,
+  "attributable": 53426.499747716516,
+  "attributable_lo": 49283.13449204184,
+  "attributable_hi": 57572.35551316129
+ },
+ "burden_NO_COVID__H_twmean_vs_tx|tw_night_mean_mean": {
+  "beta": 0.0022507201784700234,
+  "lo": 0.0015249852970126115,
+  "hi": 0.0029764550599274352,
+  "attributable": 11602.956872589513,
+  "attributable_lo": 7859.486911767597,
+  "attributable_hi": 15348.472092033002
+ },
+ "burden_NO_COVID__H_twmean_vs_tx|tx_mean": {
+  "beta": 0.008332176569532466,
+  "lo": 0.007629871218607831,
+  "hi": 0.009034481920457102,
+  "attributable": 43052.679858937416,
+  "attributable_lo": 39413.412642620875,
+  "attributable_hi": 46693.871194461375
+ }
+}

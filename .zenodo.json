@@ -1,0 +1,12 @@
+{
+  "title": "nocturnal-moist-heat-burden: code and frozen artefacts",
+  "description": "Analysis pipeline, frozen result artefacts and deterministic figure pipeline for a Nature Climate Change submission on night-time wet-bulb threshold crossings and mortality.",
+  "creators": [{"name": "The Authors (anonymised for double-blind review)"}],
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["humid heat", "wet-bulb temperature", "detection and attribution", "heat-mortality", "CMIP6", "climate change"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/fanqimcse/nocturnal-moist-heat-burden", "relation": "isSupplementTo", "resource_type": "other"}
+  ]
+}

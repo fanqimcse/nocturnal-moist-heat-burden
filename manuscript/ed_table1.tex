@@ -1,0 +1,60 @@
+% ---------------------------------------------------------------------
+% ed_table1.tex — Extended Data Table 1: complete frozen-results register
+% (rows transcribed from tables/main_results_table.csv, formatting fixed)
+% ---------------------------------------------------------------------
+\begin{table}[p]
+\centering
+\scriptsize
+\caption{\textbf{Complete register of frozen results, samples, specifications and status.}
+Every numeric cell traces to a hash-verified artefact (see figures\_manifest.csv). Rows R1--R6 are
+retracted, excluded or corrected items that are never presented as positive results.}
+\label{tab:edtable1}
+\begin{tabular}{rllp{2.6cm}p{4.6cm}l}
+\toprule
+\# & Fig. & Quantity & Sample & Effect (95\% CI unless stated) & Status \\
+\midrule
+1 & Fig1a & NWH21.9 trend, 1976--2023 & 64 stations, $\geq$90\% coverage, network equal-weighted & $+42.84$\,h per decade; baseline 1,546\,h\,yr$^{-1}$ & Primary \\
+2 & Fig1b & Zero-inflation by threshold & 176 stations screened, 67 retained & NWH21.9: 17.7\% zero station-years, ratio 1.22$\times$; NWH35: 99.9\% zero & Limitation \\
+3 & Fig1c & Aggregation sensitivity & identical 1976--2023 station set & $+42.84$ / $+52.13$ / $+18.27$\,h per decade & Sensitivity \\
+4 & Fig2a & Moisture vs warming decomposition & 72 stations, counterfactuals A/B/C/D & moisture $+17.31$\,h/dec ($+105\%$); warming $+8.60$ ($+52\%$); interaction 0.00 & Primary \\
+5 & Fig2b & Fingerprint ALL scaling factor & tropics + subtropics, 1976--2014; piControl $n=67$ segments & single $+0.429\pm0.148$; two-signal $+0.348$ (90\% CI $+0.072$ to $+0.624$) & Primary \\
+6 & Fig2c & Observed vs modelled trends & 67 stations; 4 CMIP6 models & tropics obs $+50.30$ vs models $+103.08$ (S/N 3.08); subtropics $+15.48$ vs $+54.89$ (1.36) & Supporting \\
+7 & Fig3a & Mortality, crossing 21.9\,\dd{} (any219) & 136 regions, 77,551 region-weeks & RR $=1.0181$ $[1.0104,1.0258]$, $z=+4.62$, $I^2=78.2\%$; AF $=1.77\%$ $[1.02,2.52]$ & Primary \\
+8 & Fig3a & $+$ dry-bulb tropical-night control & 136 regions, joint binary model & any219 RR $=1.0292$ $[1.0212,1.0373]$, $z=+7.21$; dry-bulb RR $=1.0368$ $[1.0320,1.0416]$ & Identification \\
+9 & Fig3b & Continuous specification & 135 regions, non-zero variance & RR per SD $=1.0033$ $[1.0020,1.0045]$, $z=+5.24$ & Sensitivity \\
+10 & Fig3b & Strict whole-night definition & 30 regions with such events & RR $=1.0043$ $[0.9876,1.0212]$, $z=+0.50$ & Low power \\
+11 & Fig3c & Dose--response bins & 64 regions, graded weekly exposure & 0--2\,h $1.0156$ $[1.0069,1.0243]$; 2--6\,h $1.0153$; 6--20\,h $1.0220$; $>$20\,h $0.9950$ $[0.9691,1.0216]$ & Step response \\
+12 & Fig3d & South vs north Europe & south 101 / north 35 regions & south $1.0036$ $[1.0021,1.0051]$; north $1.0009$ $[0.9992,1.0027]$; contrast $z=+2.26$ ($p=0.024$) & Supporting \\
+13 & Fig4a & Wet-tropics association (NWH25) & HK 132; SG 264 months & HK $1.0140$ ($z=+2.31$); SG $1.0073$ ($z=+1.69$); meta (orthogonalised) $1.0030$ $[1.0009,1.0051]$, $I^2=0\%$ & Replication \\
+14 & Fig4b & Threshold saturation, Singapore & 300 months, 2001--2025 & 21.9\,\dd{} fraction 1.000; 24.0 0.981; 25.0 0.672; 25.8 0.098 & Limitation \\
+15 & Fig4c & Re-thresholded models, Singapore & monthly panel, $n=300$ & NWH25.0 $1.0122$ ($z=+2.03$); NWH25.8 $1.0060$ ($z=+0.89$); NWH21.9 $1.0292$ ($z=+8.61$) REJECTED & Artefact + result \\
+16 & Fig4d & Minimum detectable effect & HK 132; SG 264 months & HK $1.05\%$ per \dd{}; SG $2.46\%$ per \dd{} (ratio $2.33\times$) & Power limitation \\
+17 & Fig5a & Extent vs intensity decoupling & 135 regions, 2000--2024 & population $+26\%$, regions $+29\%$, NWH $+47\%$; intensity-based scaling overstates $1.78\times$ & Primary \\
+18 & Fig5b & Newly exposed population & 135 regions, 499 million & SSP2-4.5 end-century $+78$\,M (unscaled 166); SSP5-8.5 $+146$\,M (unscaled 237) & Primary \\
+19 & Fig5c & Exposure response per $+1$\,\dd & same sample, calibrated & $70.0$\,M (pooled) / $42.3$\,M (fixed effects) & Primary \\
+20 & ED2a & Implementation uncertainty budget & reference re-implementation, two cities & $u_c=39.03\%$ (SG), $35.72\%$ (HK); night definition dominates & Sensitivity \\
+21 & ED3a & Graded scale, Europe & 225 regions, 77,551 region-weeks & I $1.0591$ $[1.0384,1.0803]$; II $1.1049$; III $1.2686$; trend $1.0577$/level & Monotonicity \\
+22 & ED3b & Local quantile grading, tropics & two cities, 300 city-months & Q2 $1.0260$; Q3 $1.0345$ with 2-cluster caveat; HC0 CI for Q3 $[0.9763,1.0962]$ & Caveated \\
+23 & ED4a & Warning trigger skill (R1--R4) & 77,551 region-weeks & R3 POD $=0.102$ below R1 POD $=0.184$; positioned as add-on & Supporting \\
+24 & ED4b & Incremental nocturnal value & same panel & 3,142 weeks (98,277 deaths); event rate 0.157 vs 0.103 ($1.53\times$) & Supporting \\
+25 & ED4c & WHO/WMO percentile-trigger failure & 225 regions; P95/P97.5/P99 & P95 $=0$ in 75.6\% of regions (63.6\%, 52.4\%); capture 21.5/20.5/19.0 deaths per alert & Guidance limit \\
+26 & ED5 & Gradient robustness & 135 estimable regions of 225 & slope $+0.00113$ (all) vs $-0.00377$ (non-zero $\geq10\%$); per-unit slope negative & Sensitivity \\
+27 & ED6b & Three stratification schemes & 225 regions, 77,551 region-weeks & humid/southern 1.0036/1.0039/1.0022; cool/northern 1.0009/1.0015/1.0009 & Supporting \\
+28 & ED6c & Background humid-heat contrast & 221 regions with defined $T_{w0}$ & median 14.40\,\dd{}, IQR 13.35--15.75\,\dd{}, range 5.40--22.20\,\dd{} & Supporting \\
+29 & T1 & Window sensitivity range & balanced sets per window & $+27.69$ to $+58.62$\,h per decade across eight windows & Sensitivity \\
+30 & T1 & Moisture share, alternative calibres & same 72 stations & V: moisture $+19.45$ ($+118\%$), warming $+7.21$ ($+44\%$); L: $+6.70$ ($+41\%$), 0.00 & Sensitivity \\
+31 & T1 & Band-resolved decomposition & 34 subtropical + 34 tropical stations & subtropics moisture $+48.88$, warming $+15.62$\,h/dec; tropics $+4.49$, $+1.51$ & Supporting \\
+32 & T1 & Independent humidity attribution & 67 stations & temperature $+0.62$ (4\%), moisture $+6.70$ (39\%), interaction $+9.83$ (57\%) & Sensitivity \\
+33 & T1 & Implementation uncertainty & HK + SG re-implementation & $u_c=35.72\%$ (HK), $39.03\%$ (SG) & Limitation \\
+34 & T1 & Absolute grading, wet tropics & 300 city-months & levels III+IV occupy 94.7\% of city-months; level 0 absent & Limitation \\
+\midrule
+R1 & -- & First-crossing hazard ratio & 64-region cohort, 37 crossings & HR $=0.863$ NOT REPORTED: risk set cools $-2.50$\,\dd{} (frailty depletion) & Retracted \\
+R2 & -- & WHO-style annual panel effect & outside frozen artefact set & not quantified; annual aggregation dilutes the nocturnal signal & Excluded \\
+R3 & -- & Singapore NWH21.9 model & monthly panel, $n=300$ & RR/SD $=1.0292$ $[1.0225,1.0359]$, $z=+8.61$; exposure saturated (fraction 1.000) & Rejected artefact \\
+R4 & -- & Printed heterogeneity statistic & 136 regions & frozen JSON $I^2=78.2\%$; earlier print showed 1\% (formatting bug) & Corrected \\
+R5 & -- & Local-quartile Q3 cluster $z$ & 300 city-months, 2 cities & cluster $z=+12.97$ inflated (2 clusters); HC0 CI $[0.9763,1.0962]$ & Corrected \\
+R6 & -- & Extent-versus-intensity direction & 135 regions & intensity $+47\%$ is FASTER than extent $+26\%$; earlier draft reversed & Corrected \\
+\bottomrule
+\end{tabular}
+\end{table}
+\clearpage

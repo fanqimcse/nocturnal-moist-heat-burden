@@ -1,0 +1,14 @@
+step30_humidity_attribution.py EXIT=0 TIME=273s
+step34_humidity_decomp_v2.py EXIT=0 TIME=388s
+step35_nwh_detection_attribution.py EXIT=0 TIME=338s
+step36_trend_robustness.py EXIT=0 TIME=7s
+step38_tropical_threshold.py EXIT=0 TIME=15s
+step39_south_north_stratified.py EXIT=0 TIME=25s
+step43_decisive_spec.py EXIT=0 TIME=22s
+step46_first_crossing_europe.py EXIT=0 TIME=19s
+step47_exposure_projection.py EXIT=0 TIME=15s
+step49_design_sensitivity.py EXIT=0 TIME=326s
+step51_tropical_power.py EXIT=0 TIME=13s
+step52_reference_implementation.py EXIT=0 TIME=36s
+step53_graded_scale.py EXIT=0 TIME=31s
+step54_warning_skill.py EXIT=0 TIME=20s
